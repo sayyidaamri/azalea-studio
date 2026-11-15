@@ -1,6 +1,6 @@
 # azalea® — creative studio website
 
-![azalea home page hero — “Creative studio built on clarity” with the video card carousel](.github/preview.png)
+![azalea home page — full scroll from hero to footer](docs/preview/homepage.gif)
 
 Plain static HTML/CSS/JS. No build step and no dependencies: **double-click `index.html`** to view it.
 To publish, upload the whole folder as-is to any static host (Netlify, Vercel, GitHub Pages, cPanel, etc.).

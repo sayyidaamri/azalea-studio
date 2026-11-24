@@ -48,7 +48,7 @@ Pages in `works/` and `journal/` use `../assets/...` paths; root pages use `asse
 - Forms validate and show a success state — **demo only, nothing is sent**.
 
 ## Sound
-The reference site has no audio at all (all its videos are muted, no Web Audio). This build matches that: no sound.
+This site has no audio at all (all videos are muted, no Web Audio).
 
 ## Placeholders to replace
 - Brand name **azalea** / “Azalea Studio B.V.” (contact, privacy, terms), email `hello@azalea.studio`,
